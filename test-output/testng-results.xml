@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-10T09:04:00 IST" name="Default suite" finished-at="2024-05-10T09:08:59 IST" duration-ms="298985">
+    <groups>
+    </groups>
+    <test started-at="2024-05-10T09:04:00 IST" name="Default test" finished-at="2024-05-10T09:08:59 IST" duration-ms="298985">
+      <class name="testings.ui_testing">
+        <test-method signature="openapp()[pri:1, instance:testings.ui_testing@22a637e7]" started-at="2024-05-10T09:04:00 IST" name="openapp" finished-at="2024-05-10T09:04:17 IST" duration-ms="17288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method signature="urlonechrome()[pri:2, instance:testings.ui_testing@22a637e7]" started-at="2024-05-10T09:04:17 IST" name="urlonechrome" finished-at="2024-05-10T09:04:36 IST" duration-ms="19178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlonechrome -->
+        <test-method signature="urlonefire()[pri:3, instance:testings.ui_testing@22a637e7]" started-at="2024-05-10T09:04:36 IST" name="urlonefire" finished-at="2024-05-10T09:05:16 IST" duration-ms="39709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlonefire -->
+        <test-method signature="urltwochrome()[pri:4, instance:testings.ui_testing@22a637e7]" started-at="2024-05-10T09:05:16 IST" name="urltwochrome" finished-at="2024-05-10T09:05:40 IST" duration-ms="24151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urltwochrome -->
+        <test-method signature="urltwofire()[pri:5, instance:testings.ui_testing@22a637e7]" started-at="2024-05-10T09:05:40 IST" name="urltwofire" finished-at="2024-05-10T09:06:06 IST" duration-ms="26078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urltwofire -->
+        <test-method signature="urlthreechrome()[pri:6, instance:testings.ui_testing@22a637e7]" started-at="2024-05-10T09:06:06 IST" name="urlthreechrome" finished-at="2024-05-10T09:06:29 IST" duration-ms="22366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlthreechrome -->
+        <test-method signature="urlthreefire()[pri:7, instance:testings.ui_testing@22a637e7]" started-at="2024-05-10T09:06:29 IST" name="urlthreefire" finished-at="2024-05-10T09:07:07 IST" duration-ms="38646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlthreefire -->
+        <test-method signature="urlfourchrome()[pri:8, instance:testings.ui_testing@22a637e7]" started-at="2024-05-10T09:07:07 IST" name="urlfourchrome" finished-at="2024-05-10T09:07:25 IST" duration-ms="17822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlfourchrome -->
+        <test-method signature="urlfourfire()[pri:9, instance:testings.ui_testing@22a637e7]" started-at="2024-05-10T09:07:25 IST" name="urlfourfire" finished-at="2024-05-10T09:07:55 IST" duration-ms="29405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlfourfire -->
+        <test-method signature="urlfivechrome()[pri:10, instance:testings.ui_testing@22a637e7]" started-at="2024-05-10T09:07:55 IST" name="urlfivechrome" finished-at="2024-05-10T09:08:18 IST" duration-ms="22866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlfivechrome -->
+        <test-method signature="urlfivefire()[pri:11, instance:testings.ui_testing@22a637e7]" started-at="2024-05-10T09:08:18 IST" name="urlfivefire" finished-at="2024-05-10T09:08:59 IST" duration-ms="41276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlfivefire -->
+      </class> <!-- testings.ui_testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
